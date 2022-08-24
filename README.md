@@ -19,7 +19,7 @@ An API for an E-commerce application where you can create, edit and remove categ
 - MySql
 - Sequalize
 
-## Installation and Usage
+## Installation and Usage:
 
 To run this project, install it locally and then by using npm, install any necessary packages:
 
